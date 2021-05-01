@@ -1,0 +1,2 @@
+# Appliances-Automation-using-arduino-in-Proteus
+We are living in 21st century where automation of any form i.e. home or industrial plays an important role in human life. When it comes to industrial automation, the concept is applied to large machines or robots which helps in increasing the efficiency in terms of production, energy and time.In this project, we will design a simple home automation project using simple components using which different electrical appliances can be switched on or off. The project is based on Arduino and we have used Arduino UNO for the project
